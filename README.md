@@ -1,1 +1,1 @@
-# pendaftaranmahasiswasuardi
+# pendaftaranmahasiswa
